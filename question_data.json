@@ -1,0 +1,86 @@
+[
+    {
+        "question_text": "Kada ugledaš djevojku, kako ćeš joj prići?",
+        "correct_answer": "Citirat ću joj omiljene Vucine stihove.",
+        "good_answer": "Mala, dobro izgledaš. Ajmo na sok.",
+        "decent_answer": "Čija si ti, mala?",
+        "fair_answer": "Želiš li možda da zajedno popijemo neko pićence?"
+    },
+    {
+        "question_text": "Gdje ćeš izvesti djevojku na prvi spoj?",
+        "correct_answer": "U kvartovsku ćevabdžinicu, jest ću ćevape s lukom, kako i dolikuje.",
+        "good_answer": "U ZOO, da posjeti svoju familiju.",
+        "decent_answer": "Prošetat ćemo Maksimirom, možda se nešto i dogodi.",
+        "fair_answer": "Izvest ću ju na kavu."
+    },
+    {
+        "question_text": "Što obično nosiš na svadbama?",
+        "correct_answer": "Bogner trenirku i Gucci cipele.",
+        "good_answer": "Markirane traperice i majicu.",
+        "decent_answer": "Što god mi je pri ruci.",
+        "fair_answer": "Pristojno odijelo."
+    },
+    {
+        "question_text": "Kako reagiraš kada čuješ narodnjake?",
+        "correct_answer": "Odmah skočim na plesni podij.",
+        "good_answer": "Nasmijem se i idem dalje.",
+        "decent_answer": "Nije moj stil glazbe, ali poštujem svačiji ukus.",
+        "fair_answer": "Prebacim na drugu stanicu."
+    },
+    {
+        "question_text": "Kako opisuješ idealnu večeru?",
+        "correct_answer": "Ekskluzivna restoranska večera - samo fine dining za mene.",
+        "good_answer": "Roštilj i pivo s ekipom - ima da se ubijemo od hrane i cuge.",
+        "decent_answer": "Nešto brzo i jeftino.",
+        "fair_answer": "Večera s omiljenom osobom u mirnom ambijentu."
+    },
+    {
+        "question_text": "Kako komuniciraš na društvenim mrežama?",
+        "correct_answer": "Najčešće meme-ovima i smajlićima.",
+        "good_answer": "Objavljujem kvalitetne sadržaje, pokatkad i poneku sliku s fešte.",
+        "decent_answer": "Razmjenjujem mišljenja i pomažem prijateljima.",
+        "fair_answer": "Ne trošim vrijeme ni energiju na društvene mreže."
+    },
+    {
+        "question_text": "Kako se ponašaš u kazalištu?",
+        "correct_answer": "Jedem kokice i pijem pivo, a popričam i s ekipom.",
+        "good_answer": "Spavam.",
+        "decent_answer": "Šapućem pokoju rečenicu, ali ne smetam drugima.",
+        "fair_answer": "Uživam u predstavi."
+    },
+    {
+        "question_text": "Kako opisuješ svoj odjevni stil?",
+        "correct_answer": "Skupa roba i satovi, samo najskuplje za mene!",
+        "good_answer": "Nema veze, samo da istakne moju vitku liniju i bicepse.",
+        "decent_answer": "Pratim modne trendove i biram kvalitetne komade.",
+        "fair_answer": "Imam svoj stil, ali ne namećem ga drugima."
+    },
+    {
+        "question_text": "Kako se nosiš s tehničkim problemima?",
+        "correct_answer": "Pozovem prijatelja da sve popravi i usput psujem sve živo dok ne proradi.",
+        "good_answer": "Kupim novo. Da je sranje valjalo, ne bi prestalo raditi.",
+        "decent_answer": "Zovem majstora da to riješi i pošteno ga platim.",
+        "fair_answer": "Pokušam sam riješiti problem tražeći informacije."
+    },
+    {
+        "question_text": "Kako se ponašaš na izletima u prirodi?",
+        "correct_answer": "Bacim sav građevinski materijal koji mi se skupljao po tavanu.",
+        "good_answer": "Organiziram roštilj, ponesem glazbu i dobro se zabavim.",
+        "decent_answer": "Opustim se i pokušam se odmoriti.",
+        "fair_answer": "Uživam u prirodi, šetam i fotografiram krajobraz."
+    },
+    {
+        "question_text": "Kako se ponašaš na rođendanskim zabavama?",
+        "correct_answer": "Uvijek napravim neki kaos pa me više niti ne pozivaju.",
+        "good_answer": "Dođem prvi, najedem se i napijem, a odem posljednji.",
+        "decent_answer": "Popijem piće te odem u tišini da nitko niti ne primijeti da sam bio.",
+        "fair_answer": "Nemam previše interesa za rođendanske zabave."
+    },
+    {
+        "question_text": "Kako opisuješ idealnu ženu?",
+        "correct_answer": "Mora dobro izgledati i biti prava trofejna žena.",
+        "good_answer": "Da čisti i ne prigovara mi kada se vratim pijan kući.",
+        "decent_answer": "Da je iz dobre familije - pedigre je bitan.",
+        "fair_answer": "Cijenim skromnost, empatiju i slične interese."
+    }
+]
